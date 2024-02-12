@@ -5,11 +5,9 @@
 2. Мальцев Александр - разработчик автопилота, составитель презентации и отчёта, ответственный за обнародование проекта, создатель графиков.
 
 ### Программы
-+[автопилот](https://github.com/SashaMaltsev/LunarProgress/blob/main/autopilot.py)
-
-+[построение графиков по KSP](https://github.com/SashaMaltsev/LunarProgress/blob/main/graph_ksp.py)
-
-+[построение графиков по математической модели](https://github.com/SashaMaltsev/LunarProgress/blob/main/physics.py)
++ [автопилот](https://github.com/SashaMaltsev/LunarProgress/blob/main/autopilot.py)
++ [построение графиков по KSP](https://github.com/SashaMaltsev/LunarProgress/blob/main/graph_ksp.py)
++ [построение графиков по математической модели](https://github.com/SashaMaltsev/LunarProgress/blob/main/physics.py)
 ### Презентация проекта (PPTX)
 + [Презентация](https://docs.google.com/presentation/d/1nRzvKo7noqS5evejEQEOvpS2gi6ix0pl/edit?usp=drive_link&ouid=115887621877627771001&rtpof=true&sd=true)
 ### Отчет проекта (DOCX)
